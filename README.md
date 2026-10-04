@@ -64,3 +64,42 @@ Expected Output
 Compare
    ↓
 PASS / FAIL
+🛠️ Tools & Technologies
+Verilog
+SystemVerilog
+RTL Design
+Digital Logic
+Self-Checking Testbench
+Reference Model
+Immediate Assertions
+Xilinx Vivado / XSIM
+📚 Verification Concepts Demonstrated
+Directed testing
+Reference-model-based verification
+Automated result checking
+Immediate assertions
+Testbench development
+PASS/FAIL statistics
+Functional coverage concepts
+🔮 Future Improvements
+Constrained-random testing
+Functional coverage
+Cross coverage
+SystemVerilog classes
+Scoreboard
+Monitor
+Generator
+Interface
+UVM-based verification
+👨‍💻 Author
+
+Deepak S
+
+ECE Student | VLSI Design & Design Verification | RTL Design
+
+🎯 Project Focus
+
+RTL Design → Testbench → Reference Model → Assertions → Automated Verification
+
+
+Available next action: :contentReference[oaicite:0]{index=0}
