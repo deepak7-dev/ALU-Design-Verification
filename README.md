@@ -63,7 +63,7 @@ Expected Output
    ↓
 Compare
    ↓
-PASS / FAIL```
+PASS / FAIL```text
 
 🛠️ Tools & Technologies
   Verilog
