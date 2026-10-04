@@ -50,7 +50,7 @@ Total:
 
 Each test case is checked using a reference model.
 
-
+```text
 Stimulus
    ↓
 DUT
@@ -64,6 +64,7 @@ Expected Output
 Compare
    ↓
 PASS / FAIL
+```
 ## 🛠️ Tools & Technologies
 
 - Verilog
